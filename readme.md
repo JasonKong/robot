@@ -34,6 +34,6 @@ Read me:
   php TestRobot.php
 
   3.2 run with input file
-  php TestRobot.php -f test.txt
+  php TestRobot.php -f test.txt 
 
   
