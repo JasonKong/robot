@@ -1,7 +1,11 @@
 Read me:
+
 1 introduction
+
   1.1 The application is a simulation of a toy robot moving on a square tabletop, of dimensions 5 units x 5 units.
+  
   1.2 Commands:
+  
      a PLACE X,Y,F
        PLACE will put the toy robot on the table in position X,Y and facing NORTH, SOUTH, EAST or WEST.
        The origin (0,0) is at the SOUTH WEST most corner.
@@ -22,18 +26,21 @@ Read me:
         *****
 
 2 Requirement to exucte
+
   PHP 5.0 or over
 
 3 Install
+
   Copy all the files to your local
 
 4 Run
-  3.0 open the folder installed with any command line tools
 
-  3.1 run with console
+  4.0 open the folder installed with any command line tools
+
+  4.1 run with console
   php TestRobot.php
 
-  3.2 run with input file
+  4.2 run with input file
   php TestRobot.php -f test.txt 
 
   
